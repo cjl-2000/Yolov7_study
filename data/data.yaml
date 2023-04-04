@@ -1,0 +1,4 @@
+train: E:/yolov7-main/yolov7-main/datasets/images/train_list.txt
+val: E:/yolov7-main/yolov7-main/datasets/images/val_list.txt
+nc: 1
+names: ['ship']
